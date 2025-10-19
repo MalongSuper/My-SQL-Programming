@@ -1,4 +1,4 @@
-<img src="./microsoft_sql_server_logo.png" alt="Python Logo" width="200"/>
+<img src="./microsoft_sql_server_logo.png" alt="Microsoft SQL Server Logo" width="200"/>
 
 # My-SQL-Programming
 
