@@ -1,3 +1,5 @@
+<img src="./microsoft_sql_server_logo.png" alt="Python Logo" width="200"/>
+
 # My-SQL-Programming
 
 The storage for Microsoft SQL Server code
